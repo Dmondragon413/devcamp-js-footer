@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Dmondragon413/devcamp-js-footer#readme",
   "dependencies": {
-    "moment": "^2.25.1"
+    "moment": "^2.29.2"
   }
 }
